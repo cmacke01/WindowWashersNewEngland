@@ -1,7 +1,7 @@
 <style>
   .banner 
   {
-    background-image: url("linkedinprofile.jpg"); 
+    background: url("linkedinprofile.jpg"); 
     background-size: cover;
     height: 200px; width: 100%; 
     text-align: center;
