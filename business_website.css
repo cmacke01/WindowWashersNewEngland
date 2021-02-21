@@ -1,11 +1,10 @@
 <style>
   .banner 
   {
-    background: url("linkedinprofile.jpg"); 
+    background-image: url("linkedinprofile.jpg"); 
+    background-position: center;
+    position: relative;
     background-size: cover;
-    height: 200px; width: 100%; 
-    text-align: center;
-    padding: 75px, 20px, 75px, 100px;
   }
   a {text-decoration:  none;
     color: #ff0000}
