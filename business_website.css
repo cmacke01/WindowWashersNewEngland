@@ -1,7 +1,12 @@
 <style>
-  #banner {background-image: url("WWNEbanner.jpg"); background-size: cover;
-  height: 200px; width: 100%; text-align: center;
-  padding: 75px, 20px, 75px, 100px;}
+  banner 
+  {
+    background-image: url("WWNEbanner.jpg"); 
+    background-size: cover;
+    height: 200px; width: 100%; 
+    text-align: center;
+    padding: 75px, 20px, 75px, 100px;
+  }
   a {text-decoration:  none;
     color: #ff0000}
   a:hover{text-decoration: underline;}
