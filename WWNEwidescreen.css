@@ -1,0 +1,49 @@
+<style>
+  .banner {
+    position: relative;
+    margin: auto;
+    z-index: -1;
+  }
+
+  .bannerText {
+    position: absolute;
+    top: 125px;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    color: #eb4646;
+    font-weight: bolder;
+    background-color: #dba348;
+  }
+
+  .navigation {
+    width: 15%;
+    float: left;
+    display: inline-block;
+    position: relative;
+    font-size: 20px;
+  }
+  .content {
+    width: 84%;
+    float: right;
+    display: inline-block;
+    position: relative;
+    font-size: 20px;
+  }
+  table {
+    background-color: #36a4b5;
+    font-size: 17px;
+  }
+
+  td, th {
+    border: 1px solid #f5e1e1;
+    text-align: left;
+    padding: 8px;
+  }
+
+  a {text-decoration:  none;
+    color: #f5e1e1;
+    font-size: 25px;}
+
+</style>
