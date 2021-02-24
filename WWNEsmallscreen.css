@@ -1,5 +1,8 @@
-<style>
   .banner {
+    background-image: url('WWNEbanner.jpg');
+    background-size: 175%;
+    height: 300px;
+    width: 100%;
     position: relative;
     margin: auto;
     z-index: -1;
@@ -18,16 +21,12 @@
   }
 
   .navigation {
-    /* width: 15%; */
-    /* float: left; */
     display: inline-block;
     position: relative;
     font-size: 20px;
   }
+
   .content {
-    /* width: 84%; */
-    /* float: right; */
-    /* display: inline-block; */
     position: relative;
     font-size: 30px;
   }
@@ -40,11 +39,28 @@
   td, th {
     border: 1px solid #f5e1e1;
     text-align: left;
+    padding: 0px;
+  }
+
+  button {
+    background-color: #36a4b5;
+    font-size: 17px;
+    text-align: left;
     padding: 8px;
+    color: #f5e1e1;
+    font-size: 30px;
+    border-width: 0px;
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  .button1 {
+    padding-right: 60px;
+  }
+
+  .button2 {
+    padding-right: 30px;
   }
 
   a {text-decoration:  none;
     color: #f5e1e1;
     font-size: 30px;}
-
-</style>
